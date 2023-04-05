@@ -1,0 +1,9 @@
+name: FloralBreeze
+main: io.github.JoltMuz.FloralBreeze.main
+version: 1.0
+api-version: 1.19
+author: JoltTheBolt
+commands:
+  floral:
+      description: Gives you the Floral Breeze boots
+      usage: /floral
